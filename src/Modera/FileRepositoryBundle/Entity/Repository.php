@@ -279,7 +279,7 @@ class Repository
     }
 
     /**
-     * @return StoredFile[]
+     * @return StoredFile[]|Collection
      */
     public function getFiles()
     {
